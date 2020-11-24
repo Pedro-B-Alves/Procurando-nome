@@ -1,0 +1,13 @@
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Procurando-nome\bin\Debug\netcoreapp3.1\Procurando-nome.exe
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Procurando-nome\bin\Debug\netcoreapp3.1\Procurando-nome.deps.json
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Procurando-nome\bin\Debug\netcoreapp3.1\Procurando-nome.runtimeconfig.json
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Procurando-nome\bin\Debug\netcoreapp3.1\Procurando-nome.runtimeconfig.dev.json
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Procurando-nome\bin\Debug\netcoreapp3.1\Procurando-nome.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Procurando-nome\bin\Debug\netcoreapp3.1\Procurando-nome.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Procurando-nome\obj\Debug\netcoreapp3.1\Procurando-nome.csprojAssemblyReference.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Procurando-nome\obj\Debug\netcoreapp3.1\Procurando-nome.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Procurando-nome\obj\Debug\netcoreapp3.1\Procurando-nome.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Procurando-nome\obj\Debug\netcoreapp3.1\Procurando-nome.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Procurando-nome\obj\Debug\netcoreapp3.1\Procurando-nome.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Procurando-nome\obj\Debug\netcoreapp3.1\Procurando-nome.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\Procurando-nome\obj\Debug\netcoreapp3.1\Procurando-nome.genruntimeconfig.cache
